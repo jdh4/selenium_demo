@@ -1,6 +1,7 @@
 # selenium_demo
 
 ```
+ssh notexa
 yum install chromium
 wget https://chromedriver.storage.googleapis.com/90.0.4430.24/chromedriver_linux64.zip
 unzip chromedriver_linux64.zip
